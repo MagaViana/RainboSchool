@@ -1,0 +1,11 @@
+C:\Users\Magali_Viana\source\repos\RainbowSchool\RainbowSchool\bin\Debug\net8.0\RainbowSchool.deps.json
+C:\Users\Magali_Viana\source\repos\RainbowSchool\RainbowSchool\bin\Debug\net8.0\RainbowSchool.dll
+C:\Users\Magali_Viana\source\repos\RainbowSchool\RainbowSchool\bin\Debug\net8.0\RainbowSchool.pdb
+C:\Users\Magali_Viana\source\repos\RainbowSchool\RainbowSchool\obj\Debug\net8.0\RainbowSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magali_Viana\source\repos\RainbowSchool\RainbowSchool\obj\Debug\net8.0\RainbowSchool.AssemblyInfoInputs.cache
+C:\Users\Magali_Viana\source\repos\RainbowSchool\RainbowSchool\obj\Debug\net8.0\RainbowSchool.AssemblyInfo.cs
+C:\Users\Magali_Viana\source\repos\RainbowSchool\RainbowSchool\obj\Debug\net8.0\RainbowSchool.csproj.CoreCompileInputs.cache
+C:\Users\Magali_Viana\source\repos\RainbowSchool\RainbowSchool\obj\Debug\net8.0\RainbowSchool.dll
+C:\Users\Magali_Viana\source\repos\RainbowSchool\RainbowSchool\obj\Debug\net8.0\refint\RainbowSchool.dll
+C:\Users\Magali_Viana\source\repos\RainbowSchool\RainbowSchool\obj\Debug\net8.0\RainbowSchool.pdb
+C:\Users\Magali_Viana\source\repos\RainbowSchool\RainbowSchool\obj\Debug\net8.0\ref\RainbowSchool.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RainbowSchoolTest/1.0.0": {
+        "dependencies": {
+          "RainbowSchool": "1.0.0"
+        },
+        "runtime": {
+          "RainbowSchoolTest.dll": {}
+        }
+      },
+      "RainbowSchool/1.0.0": {
+        "runtime": {
+          "RainbowSchool.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RainbowSchoolTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RainbowSchool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+# Compiled source files
+*.vs
+*.dll
+*.exe
+*.obj
+*.pdb
+
+# Build directories
+/bin/
+/obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
